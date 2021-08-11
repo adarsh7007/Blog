@@ -1,0 +1,14 @@
+:root{
+  --light-green:#229;
+  --dark-green:#227;
+  --navy-blue:#B6DFC1
+
+}
+
+*{
+
+  font-family: "jura",sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
